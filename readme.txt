@@ -7,3 +7,5 @@ create a new branch is new and quick
 =======
 create a new branch is new and quick
 >>>>>>> feature1
+
+hahah
